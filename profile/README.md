@@ -52,7 +52,7 @@ SXi/Q Control is an advanced control layer for fine-tuning system performance, l
 ![Main Control Panel](https://cdn11.bigcommerce.com/s-ueto8axwjf/images/stencil/1280x1280/products/251/11369/Main-Image__39831.1728062197.jpg?c=2&imbypass=on)  
 
 
-![Preset Configuration Interface](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmFhXEpV7KQwdP9losywtSPkqs-TT4qCCCGA&s)  
+![Preset Configuration Interface](https://images.planetofthevapes.co.uk/135612/sxmini_q_class_01.jpg)  
 
 
 ---
